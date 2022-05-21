@@ -45,8 +45,6 @@ THEN I am prompted to select an employee to update and their new role and this i
 ## Usage 
 This application will allow users to view, add, and edit employees, roles, departments, and managers. 
 
-View walk through video via [Screencastify](https://drive.google.com/file/d/1EZxRHzvoLcZ05NXtWYuhVnWjsJcH-9DU/view)
-
 # Links
 
 (https://github.com/FebaAlex/Employee-tracker.git)
