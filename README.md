@@ -47,9 +47,11 @@ This application will allow users to view, add, and edit employees, roles, depar
 
 View walk through video via [Screencastify](https://drive.google.com/file/d/1EZxRHzvoLcZ05NXtWYuhVnWjsJcH-9DU/view)
 
-# Links 
+# Links
 
-# Landing Page 
+(https://github.com/FebaAlex/Employee-tracker.git)
+
+
 
 
 
